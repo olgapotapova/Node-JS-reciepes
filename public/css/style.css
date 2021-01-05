@@ -1,0 +1,60 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #808000;
+}
+
+div {
+    background-color: #d7f3bd;
+    color: #7b52f5;
+    font-size: 15px;
+    border: solid 4px #565;
+    border-radius: 30px;
+    margin: 3%;
+    padding: 20px;
+}
+
+h1 {
+    font-family: "Monotype Corsiva", Cursive;
+    /*font-family: Impact, fantasy;*/
+    font-size: 50px;
+    margin-top: 5%;
+    text-align: center;
+    color: black;
+}
+
+
+img.fig {
+    object-position: 50% 50%;
+    border: 8px solid #ffffff;
+    border-radius: 50px;
+    margin-right: 10px;
+    float: left;
+}
+
+p {
+    font-family: Cursive;
+}
+
+pp {
+    font-family: Bold;
+
+}
+
+.a {
+    text-align: right;
+    border: solid 4px #565;
+    border-radius: 50px;
+}
+.b {
+    text-align: center;
+}
+select {
+    border-radius: 50px;
+    font-weight: bold;
+    border: 1px solid #CCCCFF;
+}
